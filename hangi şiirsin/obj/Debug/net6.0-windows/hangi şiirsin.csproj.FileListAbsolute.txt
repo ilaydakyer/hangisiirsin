@@ -1,0 +1,25 @@
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\bin\Debug\net6.0-windows\hangi şiirsin.exe
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\bin\Debug\net6.0-windows\hangi şiirsin.deps.json
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\bin\Debug\net6.0-windows\hangi şiirsin.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\bin\Debug\net6.0-windows\hangi şiirsin.dll
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\bin\Debug\net6.0-windows\hangi şiirsin.pdb
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi şiirsin.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi_şiirsin.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi_şiirsin.Form2.resources
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi şiirsin.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi şiirsin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi şiirsin.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi şiirsin.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi şiirsin.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi şiirsin.dll
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\refint\hangi şiirsin.dll
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi şiirsin.pdb
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi şiirsin.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\ref\hangi şiirsin.dll
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi_şiirsin.Form3.resources
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi_şiirsin.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi_şiirsin.Form4.resources
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi_şiirsin.Form5.resources
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi_şiirsin.Form6.resources
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi_şiirsin.Form7.resources
+C:\Users\user\OneDrive\Masaüstü\c# çalışmalarım\hangi şiirsin\hangi şiirsin\obj\Debug\net6.0-windows\hangi_şiirsin.Form8.resources
